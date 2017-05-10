@@ -1,0 +1,22 @@
+{
+  "name": "link",
+  "version": "0.0.1",
+  "description": "canvas 动画框架",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamchuan/link.git"
+  },
+  "author": "adamchuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamchuan/link/issues"
+  },
+  "homepage": "https://github.com/adamchuan/link#readme"
+}
